@@ -1,4 +1,4 @@
-package com.whereisdarran.webdriver.chapter3b;
+package com.whereisdarran.webdriver.chapter3;
 
 import java.io.File;
 
